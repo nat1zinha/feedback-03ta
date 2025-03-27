@@ -24,7 +24,8 @@ export function App(){
       h-10.5 rounded-full text-medium-grey text-sm font-bold"/>
     </div>
 
-    <button>Submite</button>
+    <button className="bg-orange w-full py-3 rounded-3xl 
+    uppercase text-sm tracking-1">Submit</button>
     </div>
   )
 }
