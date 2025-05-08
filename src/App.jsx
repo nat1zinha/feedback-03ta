@@ -1,5 +1,5 @@
 
-import { CardInicial } from "./assets/components/CardInicial";
+import { CardInicial } from "./components/CardInicial";
 import illustrationThankYou from "./assets/illustration-thank-you.svg"
 import { useState } from "react"
 
